@@ -1,0 +1,14 @@
+.searchBar{
+    width: 500px;
+    height: 30px;
+}
+.searchButton{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+}
+.clearButton{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+}
